@@ -1,5 +1,5 @@
 # multisig basics talk
 
-multisig basics @BitcoinBeachTravemuende 02-12-2023
+multisig basics @ Bitcoin Beach Travemünde 02-12-2023
 
 Slides: [Multisig.pdf](./Multisig.pdf)
