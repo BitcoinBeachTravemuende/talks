@@ -2,4 +2,4 @@
 
 Talk @ Bitcoin Beach Travemünde 06-01-2024
 
-Slides: [name.pdf](./Understanding Lightning BBT.pdf)
+Slides: Understanding Lightning BBT.pdf
